@@ -1,2 +1,3 @@
 conflict testing
 conflict branch 1
+conflict branch 2
